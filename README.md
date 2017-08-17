@@ -1,6 +1,7 @@
 # CRWR1200-docs
 
-This is the repository for drafts and posts for Creative Writing 1200.
+This is your repository for working on your composition for Creative Writing 1200. Your draft document is called `draft.md`. Click on the file name above to begin working.
 
-The public-facing website for this course is [here](http://crwr1200.netlify.com/).
+Click the 'Wiki` link above to review all the course details.
+
 
