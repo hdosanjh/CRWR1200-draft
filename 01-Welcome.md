@@ -1,11 +1,11 @@
-Welcome to the Creative Writing 1200. You may wish to bookmark this page.
+Welcome to Creative Writing 1200. You may wish to bookmark this page.
 
 Before going any farther, make sure you have a GitHub account. If you don't have one (or if you don't know), go [here](https://github.com/join). GitHub is free to join. Once you have signed up, come back to this page (you bookmarked it, right?) and continue reading below.
 
 ## Off We Go
-All of the course materials are here. Please read them. They are numbered by the order in which you should read them.
+All of the course materials are here. Please read them. They are numbered; that's the order in which you should read them.
 
-If you get stuck, ask in class (or open an issue using the `issues` tab above.
+If you get stuck, open an issue using the `issues` tab above.
 
 Also, please review the following online guides to GitHub:
 

@@ -1,6 +1,6 @@
 ### Activities
 
-Do all of the creative activities listed on the [course website](https://crwr1200.netlify.com/posts/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, [[ask for help|Asking for Help Online]].
+Do all of the creative activities listed on the [course website](https://crwr1200.netlify.com/posts/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, ask for help (see the document entitled "Asking for Help Online").
 
 This is an online class, which makes your willingness to engage creatively
 with the learning process all the more important. Because developing a style of authentic creative inquiry is very much a process of blending your own personal awareness with skills and practical techniques, your own emotional involvement in the class is as important as your academic knowledge of the material.

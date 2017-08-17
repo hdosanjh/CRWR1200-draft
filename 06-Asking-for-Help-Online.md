@@ -9,8 +9,5 @@ To create an issue, access the [GitHub website](www.github.com), and navigate to
 
 You will need to _assign_ this issue to your instructor (Ross), who will get back to you as soon as possible. Under the `Assignees` tab to the right of the issue description, select the gear button; GitHub will suggest Ross as your assignee. Click Ross' username. If Ross' username is not immediately visible, just type "rosslaird" (without the quotes) into the Assignee box. You may aslo [mention](https://github.com/blog/821-mention-somebody-they-re-notified) Ross in the context of any issue, and he will be notified.
 
-## Sample Issue
-Ross has created a sample issue [here](https://github.com/rosslaird/CRWR1240-draft/issues/1). This will give you a clear sense of what an issue is and how it works.
-
 ## Closing an issue
 Ross will respond as soon as possible, either by requesting more information or providing an answer to your question. Sometimes, issues will not have a straightforward answer and will lead to _discussion_. This is an important part of the online development process and a vital tool for creative people working online. Once your question has been answered to your satisfaction, you can choose to close the issue, indicating it has been successfully resolved, by selecting the `close` button in the comment box.
