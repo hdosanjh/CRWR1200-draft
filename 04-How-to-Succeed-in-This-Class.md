@@ -1,5 +1,6 @@
+# How to Succeed in this Class (and in life)
 
-If you wish to achieve a good grade, please do the following:
+If you wish to succeed in this class (and achieve a good grade), please do the following:
 
 * Do all of the course activities listed on the [course website](https://crwr1200.netlify.com/posts/) and do them with enthusiasm. Do one activity each week for nine weeks.
 * Contribute consistently to your repository.

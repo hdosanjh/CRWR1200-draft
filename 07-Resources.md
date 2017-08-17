@@ -1,14 +1,16 @@
+# Readings and Resources
+
 At a minimum, read [Grain of Truth](https://www.rosslaird.com/grain-of-truth/) (by your instructor), _The Little Book of Talent_ (by Daniel Coyle), and _How to Fly a Horse_ (by Kevin Ashton).
 
 And, while you're at it, read as many of these books as you can:
 
-### Books on writing a sentence/punctuation
+## Books on writing a sentence/punctuation
 
 * Stanley Fish, _How to Write a Sentence and How to Read One_
 * Lynne Truss, _Eats, Shoots and Leaves_
 * James Cochrane, _Between You and I_
 
-### Books on the writing process
+## Books on the writing process
 
 * Stephen King, _On Writing: A Memoir of the Craft_
 * Natalie Goldberg, _Writing Down the Bones_
@@ -19,7 +21,7 @@ And, while you're at it, read as many of these books as you can:
 * Milan Kundera, _The Art of the Novel_
 * Scott Russell Sanders, _Writing from the Center_
 
-### Books on craft and the creative process
+## Books on craft and the creative process
 
 * Robert Pirsig, _Zen and the Art of Motorcycle Maintenance_
 * Carol Dweck, _Mindset_
@@ -40,7 +42,7 @@ And, while you're at it, read as many of these books as you can:
 * Pat Allen, _Art is a Way of Knowing_
 * Frank Wilson, _The Hand_
 
-### Resources on the course website
+## Resources on the course website
 
 [Starting to Write](http://crwr1200.netlify.com/creativity/2017/08/12/starting-to-write/)
 
@@ -51,6 +53,8 @@ And, while you're at it, read as many of these books as you can:
 [Sentence Composition Checklist](https://crwr1200.netlify.com/creativity/2017/08/15/sentence-checklist/)
 
 [On Being Focused](https://crwr1200.netlify.com/education/creativity/2017/07/31/blinking-cursor-blank-page/)
+
+## Other Interesting Resources
 
 [Using Jekyll](https://jekyllrb.com/docs/home/) (Our [live site](http://crwr1200.netlify.com/) is created with Jekyll)
 
@@ -64,7 +68,7 @@ And, while you're at it, read as many of these books as you can:
 
 [Learning More about Git and GitHub](https://guides.github.com/)
 
-### Keep Searching!
+## Keep Searching!
 
 There are endless online resources for creativity and writing (and writing online). Please find some, explore what you can learn, and integrate that learning into your project.
 

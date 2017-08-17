@@ -1,4 +1,6 @@
 
+# Learning Experiences
+
 The course will include a variety of learning experiences contingent
 upon personal commitment and gumption. Because creative
 inquiry is an interactive process, much of your time will be
@@ -24,7 +26,7 @@ their written work to others? We have, most of us, been the victims of
 inappropriate feedback and judgment. We have to be careful about this,
 in our course, so that we do not harm one another.
 
-#### Skill Development
+## Skill Development
 
 Perhaps it’s most helpful to come at creative writing in terms of a
 skill set. Thinking and acting creatively is really a matter of
@@ -34,7 +36,7 @@ create, and communicate this content. These are process
 questions. Below are some examples of the kinds of considerations we
 will explore during our process.
 
-##### Creating a “Good” Question
+## Creating a “Good” Question
 
 The questions we ask tell us a lot about how we think, the assumptions
 we make and what we’re willing to accept as answers. What is a “good”
@@ -43,7 +45,7 @@ creative question evolve? How do we hold space for our questions and
 how do they “work” on us? We will discuss these questions about
 questions, and see where they lead us.
 
-##### Critical Thinking and Crap Detection
+## Critical Thinking and Crap Detection
 
 We are often quick to believe what we read and what we hear,
 especially when it comes from sources that we deem “authoritative.”
@@ -57,7 +59,7 @@ claim being made? What ideologies, assumptions and beliefs are at
 play? How do they impact the interpretation of “facts”? And what are
 facts, anyway?
 
-##### Finding, Using and Evaluating Resources
+## Finding, Using and Evaluating Resources
 
 Resources are what we use to accomplish something. We have internal
 resources such as courage, empathy, compassion, self-awareness,
@@ -72,7 +74,7 @@ access these resources? How do we know if the sources we’re accessing
 are good or the right ones for our goal? How do we evaluate their
 quality?
 
-##### Communication (speaking, listening, writing, performing)
+## Communication (speaking, listening, writing, performing)
 
 Language is expressed verbally and non-verbally in a particular
 relational context of culture, values and past experience. Our ability
@@ -83,7 +85,7 @@ mindful and embodied presence shape how we speak and listen? How do we
 write articulately, persuasively, and with accuracy and authenticity?
 How do our values shape the way we communicate?
 
-##### Following Through on a Process
+## Following Through on a Process
 
 Any creative process that generates new forms of knowledge (arts,
 sciences and otherwise) typically has a number of phases. These phases
@@ -114,7 +116,7 @@ about time, taking care of mind/body/heart/soul, and attending to
 other responsibilities all require good skills in managing our
 time. And how do we balance these various factors?
 
-##### Self-Awareness and Self-Evaluation
+## Self-Awareness and Self-Evaluation
 
 Growing personally and professionally is a process that has no end
 point. Although growth is challenging and at times painful, growth is
