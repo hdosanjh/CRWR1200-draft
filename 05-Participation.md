@@ -1,4 +1,4 @@
-### Activities
+# Activities and Engagement
 
 Do all of the creative activities listed on the [course website](https://crwr1200.netlify.com/posts/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, ask for help (see the document entitled "Asking for Help Online").
 
