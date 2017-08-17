@@ -1,0 +1,18 @@
+# Below, change "example" to your first and last name, with a dash between.
+# So, if your name is Norrin Radd, you would replace the word `example` with 
+# the name 'norrin-radd' (lower case, and without the quotation marks). 
+# On the following lines, replace the fields for your name, email address, 
+# GiHub username, and `about` description. 
+# Note: The author name that you use here (replacing `example`) must be exactly 
+# the same as the author name that is shown on the `author` line at the top of your draft.
+
+example:
+  name:              Your Name
+  email:             address@something.com
+  about:             |
+    Here is where you add something about yourself. Replace this text -- but 
+    note that the inendation of this text is required. Each line must be 4 spaces (not tabs) 
+    indented from the left. Write roughly 100 words here.
+  social:
+    github:          your-github-username
+
