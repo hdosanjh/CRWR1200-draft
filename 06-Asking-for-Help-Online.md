@@ -1,5 +1,5 @@
-## GitHub Issues
-Sometimes you might need to ask questions outside of class (for example, when you are working on your document at home). There are two ways to ask for help: you can create an `issue` (see below) or you can [chat on gitter](https://gitter.im/creative-writing-kpu/Lobby#). The simplest option is to create an issue. If a more organic, conversational approach is called for, your instructor will invite you to a gitter conversation.
+## Asking for Help
+Sometimes you might need to ask questions (especially as you will be working on your document at home, not in class). There are two ways to ask for help: you can create an `issue` (see below) or you can [chat on gitter](https://gitter.im/creative-writing-kpu/Lobby#). The simplest option is to create an issue. If a more organic, conversational approach is called for, your instructor will invite you to a gitter conversation.
 
 ## Creating an Issue
 To create an issue, access the [GitHub website](www.github.com), and navigate to your repository. Select the `Issues` tab, then select `New Issue`. The new issue screen will provide a box for `title` and for `description`.

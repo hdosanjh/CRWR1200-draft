@@ -1,3 +1,21 @@
+Welcome to the Creative Writing 1200. You may wish to bookmark this page.
+
+Before going any farther, make sure you have a GitHub account. If you don't have one (or if you don't know), go [here](https://github.com/join). GitHub is free to join. Once you have signed up, come back to this page (you bookmarked it, right?) and continue reading below.
+
+## Off We Go
+All of the course materials are here. Please read them. They are numbered by the order in which you should read them.
+
+If you get stuck, ask in class (or open an issue using the `issues` tab above.
+
+Also, please review the following online guides to GitHub:
+
+[An Introduction to GitHub](https://guides.github.com/activities/hello-world/)
+
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+[Learning More about Git and GitHub](https://guides.github.com/)
+ 
+## About the Course
 Creative Writing 1200 is a course that explores the creative process. We examine — collaboratively, playfully, mindfully — the role of creativity in self-development, learning, community engagement, and writing. Using various creative approaches and practices, we follow the alchemy of creative expression across multiple domains.
 
 The course provides an opportunity for learners to deepen their creative process, to work on their inner development, and improve their writing. Learners are encouraged to take appropriate risks, to challenge themselves creatively – especially when doing so provokes discomfort – and to be open to personal and interpersonal process. The course involves many experiential activities and many moments of possible discovery.
