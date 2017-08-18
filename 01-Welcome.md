@@ -16,8 +16,6 @@ Also, please review the following online guides to GitHub:
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-[Learning More about Git and GitHub](https://guides.github.com/)
- 
 ## About the Course
 
 Creative Writing 1200 is a course that explores the creative process. We examine — collaboratively, playfully, mindfully — the role of creativity in self-development, learning, community engagement, and writing. Using various creative approaches and practices, we follow the alchemy of creative expression across multiple domains.
