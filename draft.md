@@ -1,3 +1,9 @@
-This is a draft of your document with some sample text. I am writing a paragraph. When I want to create a new paragraph, I hit the enter key twice to create a blank line.
+# Your Draft
 
-This is a new paragraph. Don't indent it with a tab or spaces. Use Markdown formatting. Check the course documents for further details.
+This is your draft. You will replace this placeholder text with your own text.
+
+Here is a new paragraph. It has a blank line before it. Generally, the only formatting you will need to know about is how to create new paragraphs, headers, and links. Here's a handy [guide on those topics](https://help.github.com/articles/basic-writing-and-formatting-syntax/). You may wish to bookmark it.
+
+To edit this text, click the pencil icon above and to the right.
+
+Happy writing!
