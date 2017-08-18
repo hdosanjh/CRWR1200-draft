@@ -12,8 +12,6 @@ If you get stuck, open an issue using the `issues` tab above.
 
 Also, please review the following online guides to GitHub:
 
-[An Introduction to GitHub](https://guides.github.com/activities/hello-world/)
-
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 [Learning More about Git and GitHub](https://guides.github.com/)
