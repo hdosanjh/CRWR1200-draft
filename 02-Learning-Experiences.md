@@ -9,6 +9,8 @@ collaborative endeavors, and practical assignments.
 
 You can see the complete list of class readings and activities on the [course website](https://crwr1200.netlify.com/posts/).
 
+You can see the list of weekly activities [here](https://crwr1200.netlify.com/activities/).
+
 We will create a collaborative environment in this class. We are not
 going to cobble together the type of group one often hears about in
 the arts and education: competitive, cut-throat, critical. Instead, we
