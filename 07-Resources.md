@@ -42,6 +42,8 @@ And, while you're at it, read as many of these books as you can:
 * Pat Allen, _Art is a Way of Knowing_
 * Frank Wilson, _The Hand_
 
+Also feel free to review your instructor's [Goodreads bookshelf for this course](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-1200&utf8=%E2%9C%93&view=covers).
+
 ## Resources on the course website
 
 [Starting to Write](http://crwr1200.netlify.com/creativity/2017/08/12/starting-to-write/)
