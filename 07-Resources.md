@@ -2,6 +2,8 @@
 
 At a minimum, read [Grain of Truth](https://www.rosslaird.com/grain-of-truth/) (by your instructor), _The Little Book of Talent_ (by Daniel Coyle), and _How to Fly a Horse_ (by Kevin Ashton).
 
+Also read all of the [posts on the course website](https://crwr1200.netlify.com/posts/).
+
 And, while you're at it, read as many of these books as you can:
 
 ## Books on writing a sentence/punctuation
@@ -44,7 +46,7 @@ And, while you're at it, read as many of these books as you can:
 
 Also feel free to review your instructor's [Goodreads bookshelf for this course](https://www.goodreads.com/review/list/54311635-ross-laird?shelf=creative-writing-1200&utf8=%E2%9C%93&view=covers).
 
-## Resources on the course website
+## Resources to improve your writing
 
 [Starting to Write](http://crwr1200.netlify.com/creativity/2017/08/12/starting-to-write/)
 
@@ -55,6 +57,8 @@ Also feel free to review your instructor's [Goodreads bookshelf for this course]
 [Sentence Composition Checklist](https://crwr1200.netlify.com/creativity/2017/08/15/sentence-checklist/)
 
 [On Being Focused](https://crwr1200.netlify.com/education/creativity/2017/07/31/blinking-cursor-blank-page/)
+
+[The Art and Craft of the Personal Essay](https://crwr1200.netlify.com/creativity/writing/2017/07/31/art-and-craft-of-the-personal-essay/)
 
 ## Other Interesting Resources
 
