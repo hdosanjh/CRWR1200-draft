@@ -11,23 +11,6 @@ You can see the complete list of class readings and activities on the [course we
 
 You can see the list of weekly activities [here](https://crwr1200.netlify.com/category/activities/).
 
-We will create a collaborative environment in this class. We are not
-going to cobble together the type of group one often hears about in
-the arts and education: competitive, cut-throat, critical. Instead, we
-will direct our efforts toward building upon the individual strengths
-of each participant, finding ways for each of us to be self-reflective
-in terms of assessing our work together, discovering a means of
-protecting the quality and integrity of our contributions. The
-creative spirit is remarkably persistent, yet it is also fragile,
-especially at its inception, and we must be conscious of this
-fragility. Think about it: did you not experience, as a child, the
-strangulation of your creativity in school, by way of a culture of
-insensitive peers or teachers? Why do you think hardly anyone feels
-comfortable singing in public, or dancing, or drawing, or reading
-their written work to others? We have, most of us, been the victims of
-inappropriate feedback and judgment. We have to be careful about this,
-in our course, so that we do not harm one another.
-
 ## Skill Development
 
 Perhaps it’s most helpful to come at creative writing in terms of a
