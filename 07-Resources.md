@@ -56,7 +56,7 @@ Also feel free to review your instructor's [Goodreads bookshelf for this course]
 
 [Sentence Composition Checklist](https://crwr1200.netlify.com/creativity/writing/2017/08/15/sentence-checklist/)
 
-[On Being Focused](https://crwr1200.netlify.com/education/creativity/writing/2017/07/31/blinking-cursor-blank-page/)
+[On Being Focused](https://crwr1200.netlify.com/creativity/writing/2017/07/31/blinking-cursor-blank-page/)
 
 [The Art and Craft of the Personal Essay](https://crwr1200.netlify.com/creativity/writing/2017/07/31/art-and-craft-of-the-personal-essay/)
 
