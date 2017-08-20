@@ -48,15 +48,15 @@ Also feel free to review your instructor's [Goodreads bookshelf for this course]
 
 ## Resources to improve your writing
 
-[Starting to Write](http://crwr1200.netlify.com/creativity/2017/08/12/starting-to-write/)
+[Starting to Write](http://crwr1200.netlify.com/creativity/writing/2017/08/12/starting-to-write/)
 
-[Steps to Better Writing](http://crwr1200.netlify.com/creativity/2017/08/15/steps-to-better-writing/)
+[Steps to Better Writing](http://crwr1200.netlify.com/creativity/writing/2017/08/15/steps-to-better-writing/)
 
-[Tips on Tightening](https://crwr1200.netlify.com/creativity/2017/08/15/tips-on-tightening/)
+[Tips on Tightening](https://crwr1200.netlify.com/creativity/writing/2017/08/15/tips-on-tightening/)
 
-[Sentence Composition Checklist](https://crwr1200.netlify.com/creativity/2017/08/15/sentence-checklist/)
+[Sentence Composition Checklist](https://crwr1200.netlify.com/creativity/writing/2017/08/15/sentence-checklist/)
 
-[On Being Focused](https://crwr1200.netlify.com/education/creativity/2017/07/31/blinking-cursor-blank-page/)
+[On Being Focused](https://crwr1200.netlify.com/education/creativity/writing/2017/07/31/blinking-cursor-blank-page/)
 
 [The Art and Craft of the Personal Essay](https://crwr1200.netlify.com/creativity/writing/2017/07/31/art-and-craft-of-the-personal-essay/)
 
