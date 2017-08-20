@@ -58,9 +58,16 @@ Feel free to add new files to the repository (for example, to create an outline 
 
 Your repository is only accessible by you and your instructor.
 
-## Markdown Examples
+## Using Markdown
 
-Take a look at the Markdown examples in the [Markdown docs](https://guides.github.com/features/mastering-markdown/#syntax) for GitHub. These examples will show you how to use special formatting (which, probably, you won't need if you are writing a personal essay).
+Markdown is designed to be straightforward and simple. Normally you will just separate your paragraphs with one blank line (hit the `enter` key twice). For more complex formatting (headers, lists, links, and so on), take a look at the following guides and examples:
+
+[Writing on GitHub](https://help.github.com/articles/about-writing-and-formatting-on-github/)
+
+[Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 
 ## Writing, Editing, and Saving
 
