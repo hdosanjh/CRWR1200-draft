@@ -7,7 +7,7 @@ inquiry is an interactive process, much of your time will be
 devoted to experiential exercises, individual reflective tasks,
 collaborative endeavors, and practical assignments.
 
-You can see the complete list of class readings and activities on the [course website](https://crwr1200.netlify.com/posts/).
+You can see the complete list of class readings and activities on the [course website](https://crwr1200.netlify.com/).
 
 You can see the list of weekly activities [here](https://crwr1200.netlify.com/category/activities/).
 
