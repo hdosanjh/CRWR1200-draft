@@ -15,4 +15,4 @@ If you wish to succeed in this class (and achieve a good grade), please do the f
 * Commit to your composition in a substantial way. Good projects take
   time. Rushed projects are obviously rushed.
 
-Finally, please be attentive to the [KPU policies](https://www.kpu.ca/policies on academic honesty and plagiarism.
+Finally, please be attentive to the [KPU policies](https://www.kpu.ca/policies) on academic honesty and plagiarism.
