@@ -48,9 +48,9 @@ Also feel free to review your instructor's [Goodreads bookshelf for this course]
 
 ## Resources to improve your writing
 
-[Starting to Write](http://crwr1200.netlify.com/creativity/writing/2017/08/12/starting-to-write/)
+[Starting to Write](https://crwr1200.netlify.com/creativity/writing/2017/08/12/starting-to-write/)
 
-[Steps to Better Writing](http://crwr1200.netlify.com/creativity/writing/2017/08/15/steps-to-better-writing/)
+[Steps to Better Writing](https://crwr1200.netlify.com/creativity/writing/2017/08/15/steps-to-better-writing/)
 
 [Tips on Tightening](https://crwr1200.netlify.com/creativity/writing/2017/08/15/tips-on-tightening/)
 
