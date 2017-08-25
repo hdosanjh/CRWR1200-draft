@@ -5,11 +5,11 @@ Sometimes you might need to ask questions (especially as you will be working on 
 ## Creating an Issue
 
 Select the `Issues` tab above, then select `New Issue`. The new issue screen will provide a box for `title` and for `description`.
-  * Title: should concisely summarize your question, (for example, "How could I create better atmosphere in my text"?). Please do not ask questions about subjects already covered in the Wiki or which are easily searchable online. Your title should **_not_** have a non-descriptive title such as "Question".
+  * Title: should concisely summarize your question, (for example, "How could I create better atmosphere in my text"?). Please do **not** ask questions about subjects already covered in the documentation for the class (such as "when is my assignment due?") or which are easily searchable online (such as "How do I add an image to accompany my text?"). Your title should **_not_** have a non-descriptive title such as "Question".
   
   * Description: this should describe the issue you are facing, with enough information for your instructor to provide a solution. GitHub supports Markdown, which allows quick text formatting in issues. (See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).) You can also add a label to your issue if you want, but this is entirely optional.
 
-You will need to _assign_ this issue to your instructor (Ross), who will get back to you as soon as possible. Under the `Assignees` tab to the right of the issue description, select the gear button; GitHub will suggest Ross as your assignee. Click Ross' username. If Ross' username is not immediately visible, just type "rosslaird" (without the quotes) into the Assignee box. You may aslo [mention](https://github.com/blog/821-mention-somebody-they-re-notified) Ross in the context of any issue, and he will be notified.
+You will need to _assign_ this issue to your instructor (Ross), who will get back to you as soon as possible. Under the `Assignees` tab to the right of the issue description, select the gear button; GitHub will suggest Ross as your assignee. Click Ross' username. If Ross' username is not immediately visible, just type "rosslaird" (without the quotes) into the Assignee box. You may aslo [mention](https://github.com/blog/821-mention-somebody-they-re-notified) Ross, in the context of any issue or commit, and he will be notified.
 
 ## Closing an issue
 
