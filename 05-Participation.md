@@ -1,8 +1,8 @@
 # Activities and Engagement
 
-Do all of the creative activities listed on the [course website](https://crwr1200.netlify.com/category/activities/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, ask for help (see the document entitled [Asking for Help Online](06-Asking-for-Help-online.md)).
+Do all of the creative activities listed on the [course website](https://crwr1200.netlify.com/category/activities/). Do one activity each week for nine weeks. Instructions are included for each activity. If you get stuck, ask for help (see the document entitled [Asking for Help Online](06-Asking-for-Help-Online.md)).
 
-Then, after you have completed nine weeks of creative exercises, writing, and readings, you will have two weeks to complete your draft composition. You may use these two weeks to work on your own or in consultation with your instructor (using the communication methods outlined in the section on [asking for help ](06-Asking-for-Help-online.md).
+Then, after you have completed nine weeks of creative exercises, writing, and readings, you will have two weeks to complete your draft composition. You may use these two weeks to work on your own or in consultation with your instructor (using the communication methods outlined in the section on [asking for help ](06-Asking-for-Help-Online.md).
 
 This is an online class, which makes your willingness to engage creatively
 with the learning process all the more important. Because developing a style of authentic creative inquiry is very much a process of blending your own personal awareness with skills and practical techniques, your own emotional involvement in the class is as important as your academic knowledge of the material.
