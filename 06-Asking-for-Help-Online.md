@@ -4,7 +4,7 @@ Sometimes you might need to ask questions (especially as you will be working on 
 
 ## Creating an Issue
 
-To create an issue, access the [GitHub website](www.github.com), and navigate to your repository. Select the `Issues` tab, then select `New Issue`. The new issue screen will provide a box for `title` and for `description`.
+Select the `Issues` tab, then select `New Issue`. The new issue screen will provide a box for `title` and for `description`.
   * Title: should concisely summarize your question, (for example, "How could I create better atmosphere in my text"?). Please do not ask questions about subjects already covered in the Wiki or which are easily searchable online. Your title should **_not_** have a non-descriptive title such as "Question".
   
   * Description: this should describe the issue you are facing, with enough information for your instructor to provide a solution. GitHub supports Markdown, which allows quick text formatting in issues. (See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).) You can also add a label to your issue if you want, but this is entirely optional.
