@@ -14,5 +14,4 @@ Suggestion from dad: to write about his love of peacocks. Maybe use this as the 
 - LOFT
 - PROFOUND
 
-# Myth...
 The mango sun kisses the roof of the asylum as
