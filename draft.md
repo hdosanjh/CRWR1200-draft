@@ -1,9 +1,8 @@
-# Your Draft
+# Ideas
 
-This is your draft. You will replace this placeholder text with your own text.
+DEATH: grandmother's death - however this happened recently and it might be difficult to write about it. Not sure how I'd write about it. I just want to write something to make myself be okay with the loss.
 
-Here is a new paragraph. It has a blank line before it. Generally, the only formatting you will need to know about is how to create new paragraphs, headers, and links. Here's a handy [guide on those topics](https://help.github.com/articles/basic-writing-and-formatting-syntax/). You may wish to bookmark it.
+LOVE: is it possible to be in love with two people at the same time? More so, how do you know you're with the right one when they both feel right? Even more troublesome is when you're with one lover but your heart aches for the other one? and vice-versa? (TOO MANY QUESTIONS REGARDING THIS. Not sure if I want to tackle this one, it will end up making me feel too uncomfortable. Pros: if I write about it maybe my head will get cleared)
 
-To edit this text, click the pencil icon above and to the right.
 
-Happy writing!
+Suggestion from dad: to write about his love of peacocks. Maybe use this as the basis into something deeper: take the time in noticing the unqiue things around us? to love the several different creations in this world?
