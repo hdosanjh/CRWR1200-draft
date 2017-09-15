@@ -6,3 +6,8 @@ LOVE: is it possible to be in love with two people at the same time? More so, ho
 
 
 Suggestion from dad: to write about his love of peacocks. Maybe use this as the basis into something deeper: take the time in noticing the unqiue things around us? to love the several different creations in this world?
+
+
+
+
+ASYLUM, LOFT, PROFOUND
