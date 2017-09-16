@@ -15,3 +15,6 @@ DEATH: grandmother's death - however this happened recently and it might be diff
 - PROFOUND
 
 ~~The mango sun kisses the roof of the asylum as~~
+
+##
+A care home can be considered an aslyum for the physically ill. It can be considered a place of refuge since it offers shelter, intensive care and security. However it does not provide love and compassion. The nurses don't love their patients but maybe they feel some sympathy.
