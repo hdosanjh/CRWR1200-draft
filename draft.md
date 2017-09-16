@@ -8,13 +8,7 @@ DEATH: grandmother's death - however this happened recently and it might be diff
 ~~Suggestion from dad: to write about his love of peacocks. Maybe use this as the basis into something deeper: take the time to notice the unqiue things around us? to love the several different creations in this world?~~
 
 
-
-
-- ASYLUM
-- LOFT
-- PROFOUND
-
 ~~The mango sun kisses the roof of the asylum as~~
 
 ##
-A care home can be considered an aslyum for the physically ill. It can be considered a place of refuge since it offers shelter, intensive care and security. However it does not provide love and compassion. The nurses don't love their patients but maybe they feel some sympathy.
+A care home can be considered an aslyum for the physically ill. It can also be considered a place of refuge since it offers shelter, intensive care and security. However it does not provide love and compassion. The nurses don't love their patients but maybe they feel some sympathy. After all, the patients are patiently waiting for death while the nurses aquire the neccessary skills in aiding for the progression. 
