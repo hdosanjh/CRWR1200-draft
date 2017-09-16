@@ -11,7 +11,10 @@ DEATH: grandma's death - however this happened recently and it might be difficul
 
 ~~The mango sun kisses the roof of the asylum as~~
 
+
 ##
 A care home can be considered an aslyum for the physically ill. It can also be considered a place of refuge since it offers shelter, intensive care and security. However it does not provide love and compassion. The nurses don't love their patients but maybe they feel some sympathy. After all, the patients are patiently waiting for death while the nurses aquire the neccessary skills in aiding for the progression. 
 
 The nurses didn't wail and slap themselves on the head when they went to go check up on my grandma one morning only to notice she was **pulseless**. However, my Nani who was visiting India at the time was the one wailing over the phone and most likely dramatically hitting herself on the head. How **funny** is it that someone miles away is mourning but the people who took care of my grandma simply prepare to clean her room for the next patient who will take residence. 
+
+We may be born alone, and maybe our births were celebrated or uncelebrated but dying alone is the inevitable.
