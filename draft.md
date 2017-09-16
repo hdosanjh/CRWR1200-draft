@@ -11,4 +11,4 @@ DEATH: grandmother's death - however this happened recently and it might be diff
 ~~The mango sun kisses the roof of the asylum as~~
 
 ##
-A care home can be considered an aslyum for the physically ill. It can also be considered a place of refuge since it offers shelter, intensive care and security. However it does not provide love and compassion. The nurses don't love their patients but maybe they feel some sympathy. After all, the patients are patiently waiting for death while the nurses aquire the neccessary skills in aiding for the progression. 
+A care home can be considered an aslyum for the physically ill. It can also be considered a place of refuge since it offers shelter, intensive care and security. However it does not provide love and compassion. The nurses don't love their patients but maybe they feel some sympathy. After all, the patients are patiently waiting for death while the nurses aquire the neccessary skills in aiding for the progression. The nurses didn't wail and slap themselves on the head when they went to go check up on my grandma one morning only to notice she was pulseless (find out a better way to say pulseless). 
