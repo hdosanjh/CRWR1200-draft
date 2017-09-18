@@ -35,6 +35,6 @@ Characters (don't even know if all of these characters will appear)
 The mango sun kisses the lotus flowers as they float above the manmade lake. 
 
 "Only a cherry could top this sunny day"
-stabbing someone in the back and twisting the knife scene
+stabbing someone in the back and twisting the knife scene, 
 
 
