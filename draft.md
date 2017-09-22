@@ -31,9 +31,14 @@ Characters (don't even know if all of these characters will appear)
 
 ##
 
-The mango sun kisses the lotus flowers as they float above the manmade lake. 
+The mango sun kisses the lotus flowers as they float above the well. 
 
 "Only a cherry could top this sunny day"
-stabbing someone in the back and twisting the knife scene, 
+
+stabbing someone in the back and twisting the knife scene
+
+##
+
+The mango sun kisses the milky green well as the young girl collects the fallen feathers of the peacocks. When she reaches home she places the feathers next to the ones collected yesterday morning. She sighs, quickly placing her long hair into a bun and splashes some water on her face. Her mother calls   
 
 
