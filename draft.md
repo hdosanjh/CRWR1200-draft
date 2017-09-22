@@ -20,7 +20,7 @@ Characters (don't even know if all of these characters will appear)
 - Gulana Tanweer: Amreen's best friend
 - Pritam Aujla: Assistant Police Sub-Inspector and Amreen's brother, also called "Pritam Bacha" aka baby Pritam by his colleagues because of his low rank
 - Sarabdev Gill: Local doctor/Pritam's best friend
-- ~~Nardev: Assistant Police Inspector ~~
+- ~~Nardev: Assistant Police Inspector~~
 - Gurbaksh Sandhu: Assistant Police Inspector
 - Karmendra Sood: Deputy Commissioner of Police
 - Datar Bhatia: Police Inspector 
