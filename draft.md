@@ -39,6 +39,8 @@ stabbing someone in the back and twisting the knife scene?????
 
 ##
 
+*A study by The Department of Social Security Development of Women and Children reported that around 67 per cent of rural households in Punjab have at least one drug addict in the family. There is at least one death due to a drug overdose each week in the region.*
+
 The mango sun kisses the milky green well as the young girl collects the fallen feathers of the peacocks. When she reaches home she places the feathers next to the ones collected yesterday morning. She sighs as she quickly places her long hair into a bun. In the small courtyard she splashes some cold water from the steel bucket onto her face. Her brother walks out of his room adjusting the pleats in his turban. His hand grazes over the little gold plated star on his uniform. Sometimes Amreen wonders if she too could be a police officer. The idea of sharing that thought foreshadows an image of her brother slapping her across the face hard enough to leave a pink hand-print. They couldn't keep surviving off his useless earnings. Besides working in the fields barely made a thousand rupees a month. If anything she felt like a slave. ~~An education is a far reach but what could be the harm in being a police officer like him?~~
 
 "I'm heading out," Pritam calls out as he opens the gate.
