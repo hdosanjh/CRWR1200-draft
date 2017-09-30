@@ -15,7 +15,7 @@ I want to do fiction because I want to create something where there's a relative
 Characters (don't even know if all of these characters will appear)
 - Amreen Aujla: niece
 - Rupi Aujla: Amreen's mother ????? - deceased???
-- Gagan massi: Amreen's aunt, Amreen's sister who lives in Surrey, BC
+- Gagan massi: Amreen's aunt, Amreen's mother's sister who lives in Surrey, BC
 - Chintan Uncle: Gagan's husband
 - Gulana Tanweer: Amreen's best friend
 - Pritam Aujla: (APSI) Assistant Police Sub-Inspector and Amreen's brother, also called "Pritam Bacha" aka baby Pritam by his     colleagues because of his low rank
@@ -49,4 +49,4 @@ The mango sun kisses the milky green well as the young girl collects the fallen 
 
 "Karmendra is treating me today!" He yelled over the engine of his scooter. The deputy officer treated Pritam like a son and even got him the APSI position. Amreen doesn't know much about her parents. She knows her mother passed giving birth to her but nothing about her father's whereabouts. Karmendra's wife and other women around the village helped to nurture Amreen in the early years. As soon as she could tend to herself she'd been placed along her brother to do farm work. Karmendra had taken a liking to the boy. Of course never having beared a son of his own it was easy to warm up to Pritam. Karmendra couldn't take in Pritam as an officer until the age of 18 but when he turned 20, Karmendra taught him basic knowledge for the written exam, trained him for the physical exam and of course he was going to be the interviewer so Pritam had it easy from the start. Amreen waved a goodbye that her brother failed to notice. She sighed thinking, *what could have been the harm in training me as a police officer as well?* 
 
-On her walk to the farm, Amreen pretends to pinch the crows sitting on the tree. Most days she stayed to sleep at the huts by the farms. It wasn't worth it to walk back and forth from the farm to her home every day. 
+On her walk to the farm, Amreen pretends to pinch the crows sitting on the branches. Most days she stayed at the huts by the farms to sleep. It wasn't worth it to walk back and forth from the farm to her home every day. Her work was simple but require effort. As the years went by her endurdance and tolerance for cutting the crops, stacking bricks, collecting the mounds of hardened cow dung above her head made it less of a chore but into a habit that now felt awkward to think about ever stopping. 
